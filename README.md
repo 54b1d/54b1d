@@ -1,5 +1,7 @@
 ### Hi there 👋
+I'm a graduate in marketing and an Android app developer. I adore developing applications that help people, especially in business and e-commerce. To maintain my projects, collaborate with other developers, and display my work, I use Github.
 
+I'm constantly searching for fresh challenges and chances to advance as a marketer and developer.
 <!--
 **54b1d/54b1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=54b1d&layout=compact&theme=dark)](https://github.com/54b1d)
